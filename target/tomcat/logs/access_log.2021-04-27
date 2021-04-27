@@ -6,3 +6,9 @@
 0:0:0:0:0:0:0:1 - - [27/Apr/2021:18:54:30 -0300] "GET /Conversor-eu-spring/ HTTP/1.1" 200 245 http-bio-9090-exec-7 1
 0:0:0:0:0:0:0:1 - - [27/Apr/2021:18:54:39 -0300] "GET /Conversor-eu-spring/conversor HTTP/1.1" 200 1008 http-bio-9090-exec-8 4
 0:0:0:0:0:0:0:1 - - [27/Apr/2021:18:54:57 -0300] "POST /Conversor-eu-spring/conversor HTTP/1.1" 200 1008 http-bio-9090-exec-9 11
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:29:57 -0300] "GET /Conversor-eu-spring HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:29:57 -0300] "GET /Conversor-eu-spring/ HTTP/1.1" 200 245 http-bio-9090-exec-3 160
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:30:04 -0300] "GET /Conversor-eu-spring/conversor HTTP/1.1" 200 985 http-bio-9090-exec-4 910
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:30:09 -0300] "POST /Conversor-eu-spring/valores HTTP/1.1" 200 985 http-bio-9090-exec-5 36
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:30:19 -0300] "POST /Conversor-eu-spring/valores HTTP/1.1" 200 985 http-bio-9090-exec-6 8
+0:0:0:0:0:0:0:1 - - [27/Apr/2021:19:30:24 -0300] "POST /Conversor-eu-spring/valores HTTP/1.1" 200 985 http-bio-9090-exec-7 6

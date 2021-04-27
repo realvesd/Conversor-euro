@@ -28,7 +28,7 @@
 </head>
 <body>
 
-	<form:form name = "formMoeda" method="post" modelAttribute="moeda">
+	<form:form name = "formMoeda" method="post" modelAttribute="moeda" action="valores">
 	<h2>1. Qual é o valor?</h2>	
 		<p>Valor a ser convertido: <form:input path="valor" id = "valor"/></p>
 		<p><form:button onClick = "converterEuro()">Converter Para Euro</form:button></p>
